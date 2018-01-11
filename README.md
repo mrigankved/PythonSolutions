@@ -1,0 +1,2 @@
+# PythonSolutions
+Small python codes
